@@ -1,4 +1,4 @@
-# Ferramenta-CLI-Para-Gerar-Ambientes-de-Projeto-de-Ci-ncia-de-Dados
+# Ferramenta CLI Para Gerar Ambientes de Projeto de Ciência de Dados
 
 ## Estrutura do projeto:
 ```bash
