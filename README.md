@@ -33,3 +33,9 @@ python main.py criar_projeto meu_projeto --python-version 3.8 --instalar-pacotes
 * Melhorar o tratamento de erros: adicionar mensagens de erro mais informativas e tratamento de exceções.
 * Criar um pacote instalável: para facilitar a distribuição e o uso da ferramenta.
 * Testes: adicionar testes unitários para garantir a qualidade do código.
+
+## Melhorias:
+
+* Templates de projeto: Permitir que o usuário escolha entre diferentes templates de projeto (ex: projeto de análise de dados, projeto de aprendizado de máquina, etc.).
+* Gerenciamento de dependências: Integrar com um gerenciador de pacotes (conda, pipenv) para criar e gerenciar o ambiente virtual.
+* Configuração interativa: Adicionar um modo interativo para guiar o usuário na configuração do projeto.
